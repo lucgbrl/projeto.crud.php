@@ -7,12 +7,11 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <title>Página Inicial</title>
 </head>
-
 <body>
         <div class="container">
-          <div class="jumbotron">
-            <div class="row">
-                <h2>CRUD em PHP <span class="badge badge-secondary">v 1.0.0 Glaucia</span></h2>
+          <div class="row">
+            <div class="col-md-6">
+                <h2>CRUD em PHP <span class="badge badge-secondary">v 1.0.0 Uninta/EAD</span></h2>
             </div>
           </div>
             </br>
